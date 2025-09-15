@@ -1,4 +1,4 @@
-# Assignment 4 – Classification and Model Evaluation
+# Assignment 4 – Classification and Model Evaluation submitted by CE22B106
 
 This repository contains the code and analysis for **Assignment 4**, focusing on building and evaluating classification models.  
 The notebook (`A4.ipynb`) demonstrates data preprocessing, model training, performance evaluation, and interpretation of results.  
